@@ -1,0 +1,9 @@
+2024-06-13 14:37:50,399 - INFO - START introduction_to_pandas =============================================
+2024-06-13 14:37:50,399 - INFO - START introduction_to_pandas Start Time = 2024-06-13 14:37:50
+2024-06-13 14:37:50,399 - INFO - introduction_to_pandas Step 0 - Initialize the configuration file parser
+2024-06-13 14:37:50,400 - INFO - Process introduction_to_pandas Step 0 - Initializing and starting Logging Process.
+2024-06-13 14:37:50,430 - INFO - PERFORMANCE introduction_to_pandas The total process duration was:0.03
+2024-06-13 14:37:50,430 - INFO - PERFORMANCE introduction_to_pandas Stop Time = 2024-06-13 14:37:50
+2024-06-13 14:37:50,430 - INFO - PERFORMANCE introduction_to_pandas Short process duration less than 3 Seconds:0.03
+2024-06-13 14:37:50,430 - INFO - PERFORMANCE introduction_to_pandas Performance optimization is not reccomended
+2024-06-13 14:37:50,430 - INFO - END introduction_to_pandas =============================================
