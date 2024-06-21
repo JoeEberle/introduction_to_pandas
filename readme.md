@@ -17,6 +17,7 @@ Pandas offers data structures like DataFrame and Series to **efficiently handle 
 
 Pandas is important because it simplifies complex data operations, making it **easier to clean**, analyze, and visualize large datasets, which is essential for data science and machine learning tasks.
 
+Pandas was originally developed by Wes McKinney. The initial version of Pandas was released in 2008 while he was working at AQR Capital Management. McKinney started developing Pandas to provide more flexible data analysis tools for Python, particularly aimed at financial data.
 
 ##  Here are some reasons people use Pandas for data science and analysis:
 
@@ -51,10 +52,9 @@ To get started with the **Introduction To Pandas** solution repository, follow t
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
-- **Secure** - All the sample solutions are secure and use synthetic data, ensuring they contain no sensitive data or information.
     
 ## Deliverables or Figures
- ![additional_image](introduction_to_pandas.png)  <br>
+ ![additional_image](introduction_to_pandas.png)  <br>![additional_image](pandas.png)  <br>
     
 
 ## Github    
