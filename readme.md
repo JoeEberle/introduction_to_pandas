@@ -1,8 +1,8 @@
 
 ![Image image_filename](solution_sign.png)
 
-# Introduction To Pandas - Pandas is a powerful Library for data analysis and manipulation. A pnadas dataframe is like having a programmable excel spreadsheet for your data. 
-Pandas is a powerful Library for data analysis and manipulation. A pnadas dataframe is like having a programmable excel spreadsheet for your data. 
+# Introduction To Pandas - 2024-03-15 10:39:07,381 - INFO - START solution_temple =============================================
+2024-03-15 10:39:07,381 - INFO - START solution_temple =============================================
 
 ![Image image_filename](code.png)
 
