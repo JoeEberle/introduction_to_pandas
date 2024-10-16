@@ -57,11 +57,8 @@ To get started with the **Introduction To Pandas** solution repository, follow t
  ![additional_image](introduction_to_pandas.png)  <br>![additional_image](pandas.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
