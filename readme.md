@@ -20,7 +20,7 @@ Pandas was originally developed by Wes McKinney. The initial version of Pandas w
 4. **Integration with Other Libraries:** Pandas integrates seamlessly with other popular data science libraries such as NumPy, Matplotlib, and scikit-learn, enhancing its functionality and enabling comprehensive data analysis workflows.
 5. **Performance and Efficiency:** Pandas is optimized for performance, allowing users to process large datasets quickly and efficiently, which is crucial for data-intensive tasks in data science.
 
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
