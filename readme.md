@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Introduction To Pandas 
-    ## Pandas is a powerful Python library used for data manipulation and analysis.
+    
+# Introduction To Pandas 
+
+## Pandas is a powerful Python library used for data manipulation and analysis.
+
     ![Image image_filename](code.png)
 ## Introduction to Pandas
 
@@ -43,9 +46,9 @@ To get started with the **Introduction To Pandas** solution repository, follow t
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Introduction To Pandas** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -55,6 +58,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](introduction_to_pandas.png)  <br>![additional_image](pandas.png)  <br>
