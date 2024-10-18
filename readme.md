@@ -1,11 +1,4 @@
-
-![Image image_filename](solution_sign.png)
-
-# Introduction To Pandas - Pandas is a powerful Python library used for data manipulation and analysis.
-Pandas is a powerful Python library used for data manipulation and analysis.
-
-![Image image_filename](code.png)
-
+![Image image_filename](solution_sign.png)# Introduction To Pandas - Pandas is a powerful Python library used for data manipulation and analysis.![Image image_filename](code.png)
 ## Introduction to Pandas
 
 Pandas is a **powerful Python library** used for:
@@ -27,9 +20,7 @@ Pandas was originally developed by Wes McKinney. The initial version of Pandas w
 4. **Integration with Other Libraries:** Pandas integrates seamlessly with other popular data science libraries such as NumPy, Matplotlib, and scikit-learn, enhancing its functionality and enabling comprehensive data analysis workflows.
 5. **Performance and Efficiency:** Pandas is optimized for performance, allowing users to process large datasets quickly and efficiently, which is crucial for data-intensive tasks in data science.
 
-
 ![Image image_filename](sample.png)
-
 ## Getting Started
 To get started with the **Introduction To Pandas** solution repository, follow these steps:
 1. Clone the repository to your local machine.
@@ -44,6 +35,9 @@ To get started with the **Introduction To Pandas** solution repository, follow t
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -53,13 +47,11 @@ To get started with the **Introduction To Pandas** solution repository, follow t
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
+## List of Figures
  ![additional_image](introduction_to_pandas.png)  <br>![additional_image](pandas.png)  <br>
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
