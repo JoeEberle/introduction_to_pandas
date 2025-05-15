@@ -69,13 +69,3 @@ To get started with the **Introduction To Pandas** solution repository, follow t
 - ✅ **Educational** Each template includes educational narrative and background context to support learning, teaching, and collaborative development.
 
     
-## List of Figures
- ![additional_image](introduction_to_pandas.png)  <br>![additional_image](pandas.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
-    
